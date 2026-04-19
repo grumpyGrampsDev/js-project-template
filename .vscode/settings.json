@@ -1,0 +1,46 @@
+{
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "Solarized Light",
+
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "editor.inlineSuggest.edits.showCollapsed": true,
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "on",
+  "editor.guides.indentation": true,
+  "editor.renderWhitespace": "boundary",
+
+  "files.autoSave": "onFocusChange",
+
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "none",
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+
+  "eslint.validate": ["javascript", "html"],
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "editor.minimap.autohide": "scroll",
+  "editor.minimap.enabled": false,
+  "editor.linkedEditing": true
+}
