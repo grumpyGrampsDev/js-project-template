@@ -1,6 +1,6 @@
 {
   "window.autoDetectColorScheme": true,
-  "workbench.preferredLightColorTheme": "Solarized Light",
+  "workbench.preferredLightColorTheme": "Dracula Theme",
 
   "[dart]": {
     "editor.formatOnSave": true,
