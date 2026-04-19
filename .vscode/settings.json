@@ -20,13 +20,16 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
-
   "editor.minimap.enabled": false,
   "editor.wordWrap": "on",
   "editor.scrollBeyondLastLine": false,
   "editor.renderWhitespace": "boundary",
+  "editor.guides.bracketPairs": true,
+  "editor.guides.indentation": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.cursorSmoothCaretAnimation": "on",
+  "breadcrumbs.enabled": true,
+  "search.followSymlinks": false,
 
   // -------------------------
   // ⚡ ESLINT + FORMAT ON SAVE
@@ -41,6 +44,8 @@
   "files.autoSave": "onFocusChange",
   "workbench.editor.enablePreview": false,
   "workbench.startupEditor": "none",
+  "workbench.editor.highlightModifiedTabs": true,
+  "explorer.compactFolders": true,
 
   // -------------------------
   // 🧱 UI SIMPLICITY
