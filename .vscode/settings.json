@@ -3,6 +3,7 @@
   // 🎨 THEME (LOCKED)
   // -------------------------
   "workbench.colorTheme": "Catpuccin Mocha Transparent",
+  "workbench.iconTheme": "material-icon-theme",
   "window.autoDetectColorScheme": false,
 
   // -------------------------
