@@ -9,11 +9,11 @@
   // -------------------------
   // 🔤 FONT (READABILITY)
   // -------------------------
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.fontSize": 14,
-  "editor.lineHeight": 22,
+  "editor.fontFamily": "Fira Code, monospace",
   "editor.fontLigatures": true,
-
+  "editor.fontSize": 14,
+  "editor.fontWeight": "normal",
+  "editor.lineHeight": 22,
   // -------------------------
   // 🧠 EDITOR BEHAVIOR
   // -------------------------
